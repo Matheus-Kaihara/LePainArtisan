@@ -1,10 +1,10 @@
 # Le Pain Artisan
 
-Sistema desenvolvido com o objetivo de auxiliar o controle de estoque dos produtos alimenticios de uma padaria.
+Sistema desenvolvido com o objetivo de auxiliar o controle de estoque dos produtos alimentícios de uma padaria.
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins apresentativos.
 
 
 ### 📋 Pré-requisitos
