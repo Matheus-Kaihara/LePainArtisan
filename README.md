@@ -1,4 +1,4 @@
-# 🍞 Le Pain Artisan
+# 🍞 Le Pain Artisan 🌾
 
 Sistema desenvolvido com o objetivo de auxiliar o controle de estoque dos produtos alimentícios de uma padaria.
 
