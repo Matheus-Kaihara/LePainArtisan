@@ -19,7 +19,7 @@ Alguns programas necessarios para rodar nosso sistema:
 
 Siga o passo a passa para instalar e abrir o programa:
 
-1 - baixar o "Xampp" na maquina. Localizar sua pasta dentro do DISCO LOCAL (C:) e seguir o caminho: 📁xampp >> 📁htdocs >> 📁Padaria (apagar todas outras pastas de dentro e deixar apenas a pasta "Padaria"). Após a instalação do Xampp, abri-lo e selecionar "start" no Apache e MySQL.
+1 - baixar o "Xampp" na maquina. Localizar sua pasta dentro do DISCO LOCAL (C:) e seguir o caminho: 📁xampp >> 📁htdocs >> 📁Padaria (apagar todas outras pastas de dentro e colar apenas a pasta "Padaria"). Após a instalação do Xampp, abri-lo e selecionar "start" no Apache e MySQL.
 
 2 - 
 
