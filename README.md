@@ -20,6 +20,7 @@ Alguns programas necessarios para rodar nosso sistema:
 Siga o passo a passa para instalar e abrir o programa:
 
 1 - baixar o "Xampp" na maquina.
+
 2 - 
 
 ## ⚙️ Executando os testes
