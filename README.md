@@ -11,8 +11,8 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 Alguns programas necessarios para rodar nosso sistema:
 
-
-* [Xampp](https://www.apachefriends.org/) - conexao com o banco de dados criando ambiente local
+* [Padaria] - pasta "Padaria.zip" que iremos disponibilizar o download.
+* [Xampp](https://www.apachefriends.org/) - conexao com o banco de dados criando ambiente local.
 
 
 ### 🔧 Instalação
