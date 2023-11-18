@@ -19,7 +19,7 @@ Alguns programas necessarios para rodar nosso sistema:
 
 Siga o passo a passa para instalar e abrir o programa:
 
-1 - baixar o "Xampp" na maquina.
+1 - baixar o "Xampp" na maquina. Após a instalação do Xampp, abri-lo e selecionar "start" no Apache e MySQL.
 
 2 - 
 
