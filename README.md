@@ -17,21 +17,10 @@ Alguns programas necessarios para rodar nosso sistema:
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
+Siga o passo a passa para instalar e abrir o programa:
 
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
+1 - baixar o "Xampp" na maquina.
+2 - 
 
 ## ⚙️ Executando os testes
 
