@@ -1,4 +1,4 @@
-# Le Pain Artisan
+# 🍞 Le Pain Artisan
 
 Sistema desenvolvido com o objetivo de auxiliar o controle de estoque dos produtos alimentícios de uma padaria.
 
@@ -9,7 +9,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+Alguns programas necessarios para rodar nosso sistema:
 
 
 * [Xampp](https://www.apachefriends.org/) - conexao com o banco de dados criando ambiente local
