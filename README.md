@@ -21,9 +21,9 @@ Siga o passo a passa para instalar e abrir o programa:
 
 1 - baixar o "Xampp" na maquina. Localizar sua pasta dentro do DISCO LOCAL (C:) e seguir o caminho: 📁xampp >> 📁htdocs >> 📁Padaria (apagar todas outras pastas de dentro e colar apenas a pasta "Padaria"). Após a instalação do Xampp, abri-lo e selecionar "start" no Apache e MySQL.
 
-Abrir o Xampp e clicar no ADMIN do MySQL. Vai abrir uma pagina WEB do painel de gerenciamento.Clique em NOVO na esquerda do navegador, BANCO DE DADOS na parte superior do navegador, coloque o nome da estrutura como "padaria". Seleciona a estrutura "padaria", vai em IMPORTAR no canto superior do site e selecione IMPORTAR ARQUIVO, fazendo o caminho 📁xampp >> 📁htdocs >> 📁Padaria >> 🗃️padaria (tipo do arquivo: ARQUIVO FONTE SQL). Após isso basta descer a pagina até o final e selecionar o botao IMPORTAR.
+Abrir o Xampp e clicar no ADMIN do MySQL. Vai abrir uma pagina WEB do painel de gerenciamento. Clique em NOVO na esquerda do navegador, BANCO DE DADOS na parte superior do navegador, coloque o nome da estrutura como "padaria". Seleciona a estrutura "padaria", vai em IMPORTAR no canto superior do site e selecione IMPORTAR ARQUIVO, fazendo o caminho 📁xampp >> 📁htdocs >> 📁Padaria >> 🗃️padaria (tipo do arquivo: ARQUIVO FONTE SQL). Após isso basta descer a pagina até o final e selecionar o botao IMPORTAR.
 
-2 - 
+2 - Dentro do Xampp clicar no ADMIN do Apache. Vai abrr o endereço de site "localhost" no navegador padrão. Siga o caminho: 📁Padaria >> 📁pages/ >> Site do sistema irá abrir.
 
 ## ⚙️ Executando os testes
 
