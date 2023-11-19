@@ -43,14 +43,14 @@ Após a instalação, na [tela inicial](http://localhost/Padaria/pages/) do sist
 
 ## 🛠️ Construído com
 
-Algumas das ferramentas e linguagens que utilizamos para criar nosso sistema:
+Ferramentas e linguagens que utilizamos para criar nosso sistema:
 
 - HTML - linguagem de marcação de desenvolvimento WEB
 - CSS - linguagem de marcação de desenvolvimento WEB
 - PHP - linguagem de programação
 - [bootstrap](https://getbootstrap.com.br/) - framework web gratuito para desenvolvimento HTML, CSS e JS (com responsividade)
 - [Xampp](https://www.apachefriends.org/) - conexao com o banco de dados criando ambiente local
-- [Visual Studio](https://code.visualstudio.com/) - IDE que utilizamos para programar
+- [Visual Studio Code](https://code.visualstudio.com/) - IDE que utilizamos para programar
 - [Canva](https://www.canva.com/) - ferramenta website para edição de imagens
 - [Figma](https://www.figma.com/) - ferramenta website que nos ajudou a projetar o design do sistema
  
