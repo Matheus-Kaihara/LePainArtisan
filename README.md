@@ -45,9 +45,9 @@ Após a instalação, na [tela inicial](http://localhost/Padaria/pages/) do sist
 
 Algumas das ferramentas e linguagens que utilizamos para criar nosso sistema:
 
-* [HTML] - linguagem de marcação de desenvolvimento WEB
-* [CSS] - linguagem de marcação de desenvolvimento WEB
-* [BOOTSTRAP]([https://rometools.github.io/rome/](https://getbootstrap.com.br/)) - O Bootstrap é uma ferramenta gratuita para desenvolvimento HTML, CSS e JS (com responsividade)
+- [HTML] - linguagem de marcação de desenvolvimento WEB
+- [CSS] - linguagem de marcação de desenvolvimento WEB
+- [BOOTSTRAP]([https://rometools.github.io/rome/](https://getbootstrap.com.br/)) - O Bootstrap é uma ferramenta gratuita para desenvolvimento HTML, CSS e JS (com responsividade)
  
 
 ## ✒️ Autores
