@@ -31,10 +31,10 @@ Siga o passo a passa para instalar e abrir o programa:
 
 Após a instalação, na [tela inicial](http://localhost/Padaria/pages/) do sistema é possível ver 4 ícones interativos:
 
-- [cadastro](http://localhost/Padaria/pages/?page=cadastro) - onde é possível cadastrar produtos dentro do sistema 
-- [estoque](http://localhost/Padaria/pages/index.php?page=listar) - onde mostra o estoque cadastrado
-- [contato](http://localhost/Padaria/pages/contato.html) - informações para contato da padaria
-- [sobre](http://localhost/Padaria/pages/sobreNos.html) - informaçõe contando sobre a padaria e seus colaboradores
+- cadastro - onde é possível cadastrar produtos dentro do sistema 
+- estoque - onde mostra o estoque cadastrado
+- contato - informações para contato da padaria
+- sobre - informaçõe contando sobre a padaria e seus colaboradores
 
 
 ## 📦 Implementação
