@@ -45,8 +45,8 @@ Após a instalação, na [tela inicial](http://localhost/Padaria/pages/) do sist
 
 Algumas das ferramentas e linguagens que utilizamos para criar nosso sistema:
 
-* [HTML]([http://www.dropwizard.io/1.0.2/docs/](https://www.alura.com.br/artigos/html?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=662261334153&hsa_src=g&hsa_tgt=aud-2200793985068:dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAgeeqBhBAEiwAoDDhn7mTNT43r8gkqZeJ-IeMNbnHMW0RQjGJLh4uedk0wBS2vnP_wVwxZhoCx8gQAvD_BwE)) - O framework web usado
-* [Maven](https://maven.apache.org/) - tecnologia utilizada para desenvolver sites
+* [HTML]([[http://www.dropwizard.io/1.0.2/docs/](https://www.alura.com.br/artigos/html?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=662261334153&hsa_src=g&hsa_tgt=aud-2200793985068:dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAgeeqBhBAEiwAoDDhn7mTNT43r8gkqZeJ-IeMNbnHMW0RQjGJLh4uedk0wBS2vnP_wVwxZhoCx8gQAvD_BwE)](https://pt.khanacademy.org/computing/computer-programming/html-css?utm_account=Grant&utm_campaignname=&gad_source=1&gclid=CjwKCAiAgeeqBhBAEiwAoDDhn4L69zz8XF2W7kKFQ-39FMIsH6EzWElJo2VhOHOokxPtA2UrDay2yRoCx5kQAvD_BwE)) - linguagem de marcação de desenvolvimento WEB
+* [Maven](https://maven.apache.org/) - linguagem de marcação de desenvolvimento WEB
 * [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
  
 
