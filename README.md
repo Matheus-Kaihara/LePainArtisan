@@ -4,7 +4,7 @@ Sistema desenvolvido com o objetivo de auxiliar o controle de estoque dos produt
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins apresentativos.
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins apresentativos. Trata-se de um sistema de gerenciamento de estoque direcionado a uma padaria (nesse caso). É possível cadastrar produtos, editar, excluir ou simplesmente consultar e mante-los nos estoque (um sistema de CRUD).
 
 
 ### 📋 Pré-requisitos
@@ -66,18 +66,10 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 * **Matheus Kaihara** - *Back-end* - [Matheus-Kaihara](https://github.com/Matheus-Kaihara)
 * **Pedro Bassan** - *Documentação e desenvolvimento do projeto* - [PedroBassan](https://github.com/PedroBassan)
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
+Fizemos esse sistema como um projeto para a matéria "Aplicações Digitais: Planejamento e Produção" do professor Saulo Silva Coelho pela faculdade [Unisagrado](https://unisagrado.edu.br/).
 
-
----
+Gostaríamos de agradecer pelas aulas e ensinamentos durante o semestre. Obrigado!
