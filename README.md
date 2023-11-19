@@ -1,4 +1,4 @@
-# 🍞 Le Pain Artisan 🌾
+# 🍞 Le Pain Artisan 
 
 Sistema desenvolvido com o objetivo de auxiliar o controle de estoque dos produtos alimentícios de uma padaria.
 
@@ -58,13 +58,13 @@ Ferramentas e linguagens que utilizamos para criar nosso sistema:
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+Nós fizemos o sistema por chamdas via Discord, conversando sobre o projeto e sua evolução. Para melhor organizarmos as terefas, dividimos o grupo em equipes com objetivos distintos. Apesar de cada um ter seu papel dentro do projeto, todos nós nos ajudavamos nas dúvidas que nos apareciam. O grupo ficou dividido a seguinte forma:
 
 * **Arthur Fazioni** - *Design e desenvolvimeno do projeto* - 
 * **Leonardo Campos Guimarães** - *Back-end e implementação do banco de dados* - [LeonardoCamposG](https://github.com/LeonardoCamposG)
 * **Luis Felipe Filenga** - *Front-end* - [LuisFelipeFilenga](https://github.com/LuisFelipeFilenga)
 * **Matheus Goes** - *Design* - 
-* **Matheus Kaihara** - *Back-end* - [Matheus-Kaihara](https://github.com/Matheus-Kaihara)
+* **Matheus Kaihara** - *Back-end e Front-end* - [Matheus-Kaihara](https://github.com/Matheus-Kaihara)
 * **Pedro Bassan** - *Documentação e desenvolvimento do projeto* - [PedroBassan](https://github.com/PedroBassan)
 
 
