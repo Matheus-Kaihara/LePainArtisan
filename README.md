@@ -39,7 +39,7 @@ Após a instalação, na [tela inicial](http://localhost/Padaria/pages/) do sist
 
 ## 📦 Implantação
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+É um programa simples que atende a necessidade de gerenciar o estoque de uma padaria ou algum outro ambiente que tenha um estoque alimentício. Ressaltando que é possível adicionar ou remover "tipos" de produtos como salgado, doce ou bebida; abrindo a possibilidade de levar o sistema para empresas de outras áreas alimentícias.
 
 ## 🛠️ Construído com
 
