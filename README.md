@@ -64,7 +64,7 @@ Nós fizemos o sistema por chamdas via Discord, conversando sobre o projeto e su
 * **Leonardo Campos Guimarães** - *Back-end e implementação do banco de dados* - [LeonardoCamposG](https://github.com/LeonardoCamposG)
 * **Luis Felipe Filenga** - *Front-end* - [LuisFelipeFilenga](https://github.com/LuisFelipeFilenga)
 * **Matheus Goes** - *Design* - 
-* **Matheus Kaihara** - *Back-end e Front-end* - [Matheus-Kaihara](https://github.com/Matheus-Kaihara)
+* **Matheus Kaihara** - *Front-end e implementação com back-end* - [Matheus-Kaihara](https://github.com/Matheus-Kaihara)
 * **Pedro Bassan** - *Documentação e desenvolvimento do projeto* - [PedroBassan](https://github.com/PedroBassan)
 
 
