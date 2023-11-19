@@ -60,7 +60,7 @@ Ferramentas e linguagens que utilizamos para criar nosso sistema:
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **Arthur Fazioni** - *Design e desenvolvimeno do projeto* - 
-* **Leonardo Campos Guimarães** - *Back-end e implementação do banco de dados* - [LeonardoCamposG]([https://github.com/linkParaPerfil](https://github.com/LeonardoCamposG)
+* **Leonardo Campos Guimarães** - *Back-end e implementação do banco de dados* - [LeonardoCamposG](https://github.com/LeonardoCamposG)
 * **Luis Felipe Filenga** - *Front-end* - [LuisFelipeFilenga](https://github.com/LuisFelipeFilenga)
 * **Matheus Goes** - *Design* - 
 * **Matheus Kaihara** - *Back-end* - [Matheus-Kaihara](Mail.harpomail.com.br)
