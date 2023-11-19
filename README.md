@@ -27,25 +27,12 @@ Siga o passo a passa para instalar e abrir o programa:
 
 💻 PROGRAMA ABERTO E PRONTO PARA USO!
 
-## ⚙️ Executando os testes
+## ⚙️ Possibilidades dentro do sistema
 
-Explicar como executar os testes automatizados para este sistema.
+Na tela inicial do sistema é possível ver 4 ícones interativos:
 
-### 🔩 Analise os testes de ponta a ponta
+- [cadastro](http://localhost/Padaria/pages/?page=cadastro) - 
 
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
 
 ## 📦 Implantação
 
