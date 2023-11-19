@@ -47,7 +47,7 @@ Algumas das ferramentas e linguagens que utilizamos para criar nosso sistema:
 
 - html - linguagem de marcação de desenvolvimento WEB
 - css - linguagem de marcação de desenvolvimento WEB
-- [bootstrap](https://getbootstrap.com.br/) - O Bootstrap é uma ferramenta gratuita para desenvolvimento HTML, CSS e JS (com responsividade)
+- [bootstrap](https://getbootstrap.com.br/) - framework web gratuito para desenvolvimento HTML, CSS e JS (com responsividade)
  
 
 ## ✒️ Autores
