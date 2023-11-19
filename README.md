@@ -37,7 +37,7 @@ Após a instalação, na [tela inicial](http://localhost/Padaria/pages/) do sist
 - [sobre](http://localhost/Padaria/pages/sobreNos.html) - informaçõe contando sobre a padaria e seus colaboradores
 
 
-## 📦 Implantação
+## 📦 Implementação
 
 É um programa simples que atende a necessidade de gerenciar o estoque de uma padaria ou algum outro ambiente que tenha um estoque alimentício. Ressaltando que é possível adicionar ou remover "tipos" de produtos (como salgado, doce ou bebida) abrindo a possibilidade de levar o sistema para empresas de outras áreas alimentícias.
 
@@ -59,8 +59,12 @@ Ferramentas e linguagens que utilizamos para criar nosso sistema:
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Arthur Fazioni** - *Desenvolvedor* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+* **Arthur Fazioni** - *Design e desenvolvimeno do projeto* - 
+* **Leonardo Campos Guimarães** - *Back-end e implementação do banco de dados* - [LeonardoCamposG]([https://github.com/linkParaPerfil](https://github.com/LeonardoCamposG))
+* **Luis Felipe Filenga** - *Front-end* - [LuisFelipeFilenga](https://github.com/LuisFelipeFilenga)
+* **Matheus Goes** - *Design* - 
+* **Matheus Kaihara - *Back-end* - [Matheus-Kaihara](Mail.harpomail.com.br)
+* **Pedro Bassan** - *Documentação e desenvolvimento do projeto* - [PedroBassan](https://github.com/PedroBassan)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
