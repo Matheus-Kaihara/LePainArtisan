@@ -63,7 +63,7 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 * **Leonardo Campos Guimarães** - *Back-end e implementação do banco de dados* - [LeonardoCamposG](https://github.com/LeonardoCamposG)
 * **Luis Felipe Filenga** - *Front-end* - [LuisFelipeFilenga](https://github.com/LuisFelipeFilenga)
 * **Matheus Goes** - *Design* - 
-* **Matheus Kaihara** - *Back-end* - [Matheus-Kaihara](Mail.harpomail.com.br)
+* **Matheus Kaihara** - *Back-end* - [Matheus-Kaihara]([Mail.harpomail.com.br](https://github.com/Matheus-Kaihara))
 * **Pedro Bassan** - *Documentação e desenvolvimento do projeto* - [PedroBassan](https://github.com/PedroBassan)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
