@@ -4,7 +4,7 @@ Sistema desenvolvido com o objetivo de auxiliar o controle de estoque dos produt
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins apresentativos. Trata-se de um sistema de gerenciamento de estoque direcionado a uma padaria (nesse caso). É possível cadastrar produtos, editar, excluir ou simplesmente consultar e mante-los nos estoque (um sistema de CRUD).
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins apresentativos. Trata-se de um sistema de gerenciamento de estoque direcionado a uma padaria (nesse caso). É possível cadastrar produtos, editar, excluir ou simplesmente consultar e mantê-los nos estoque (um sistema de CRUD).
 
 
 ### 📋 Pré-requisitos
