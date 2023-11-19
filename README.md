@@ -31,7 +31,8 @@ Siga o passo a passa para instalar e abrir o programa:
 
 Na [tela inicial](http://localhost/Padaria/pages/) do sistema é possível ver 4 ícones interativos:
 
-- [cadastro](http://localhost/Padaria/pages/?page=cadastro) - 
+- [cadastro](http://localhost/Padaria/pages/?page=cadastro) - onde é possível cadastrar produtos dentro do sistema
+- [estoque](http://localhost/Padaria/pages/index.php?page=listar) - 
 
 
 ## 📦 Implantação
