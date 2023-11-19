@@ -53,6 +53,7 @@ Ferramentas e linguagens que utilizamos para criar nosso sistema:
 - [Visual Studio Code](https://code.visualstudio.com/) - IDE que utilizamos para programar
 - [Canva](https://www.canva.com/) - ferramenta website para edição de imagens
 - [Figma](https://www.figma.com/) - ferramenta website que nos ajudou a projetar o design do sistema
+- [Discord](https://discord.com/) - aplicativo web ou instalável utilizado para a comunicação e organização da equipe
  
 
 ## ✒️ Autores
